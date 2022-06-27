@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500&family=Roboto+Flex:opsz,wght@8..144,100;8..144,900&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.dotted-bac{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 150px;
+}
+
+.navbar-brand img{
+    width: 100px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.bg-lights{
+    background-image: url("images/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.buy-now-btn{
+    background-color: #ffc71c;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.card img{
+    max-width: 80%;
+}
+
+.card h5{
+    font-weight: 800;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 5px 5px lightgray;
+    border-radius: 10px;
+}
+
+.cetagories h3{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.box-s.ml {
+    position: relative;
+    right: -128px;
+}
+
+.cetagories img{
+    max-width: 100%;
+}
+
+.box-s{
+    box-shadow: 3px 3px 3px 3px lightgray;
+}
+
+.cetagories .row {
+    margin-bottom: 20px;
+}
